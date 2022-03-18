@@ -6,9 +6,9 @@
 
 2. Run script
 
-`Rscript RAS84_sample_classification.R [path to log normalised counts matrix]
+`Rscript RAS84_sample_classification.R [path to log normalised counts matrix]`
 
-3. Output. A tab delimited text file containing three columns, **class_ras84**, **class_ras55** and **smple_id**.
+3. Output. A tab delimited text file containing three columns, **class_ras84**, **class_ras55** and **sample_id**.
 
 `RAS_classes_df.txt`
 
